@@ -5,6 +5,9 @@ import fullScreenContainer from './components/fullScreenContainer/index'
 import loading from './components/loading/index'
 
 // border box
+// border box1
+// border box2
+// border box3
 import borderBox1 from './components/borderBox1/index'
 import borderBox2 from './components/borderBox2/index'
 import borderBox3 from './components/borderBox3/index'
