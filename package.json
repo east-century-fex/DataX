@@ -1,12 +1,12 @@
 {
-  "name": "@jiaminghi/data-view",
-  "version": "2.4.4",
-  "author": "JiaMing <743192023@qq.com>",
+  "name": "@east-century/datax",
+  "version": "0.0.1",
+  "author": "fex <fex@hndfsj.com>",
   "description": "Vue Large screen data display component library",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jiaming743/DataV.git"
+    "url": "https://github.com/east-century-fex/DataX.git"
   },
   "scripts": {
     "build": "node build/index.js",
@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jiaming743/DataV/issues"
+    "url": "https://github.com/east-century-fex/DataX/issues"
   },
   "keywords": [
     "vue",
@@ -25,10 +25,10 @@
     "datavisual"
   ],
   "dependencies": {
-    "@jiaminghi/charts": "*",
+    "@east-century/charts": "*",
     "@babel/runtime": "^7.5.5"
   },
-  "homepage": "https://github.com/jiaming743/DataV#readme",
+  "homepage": "https://github.com/east-century-fex/DataX#datax",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
