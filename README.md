@@ -8,9 +8,9 @@
     </a>
 </p>
 
-## DataV是干什么的?
+## DataX是干什么的?
 
-* DataV是一个基于**Vue**的数据可视化组件库
+* DataX是一个基于**Vue**的数据可视化组件库
 * 提供用于提升页面视觉效果的**SVG**边框和装饰
 * 提供常用的**图表**如折线图等
 * 飞线图/轮播表等其他组件
@@ -25,9 +25,9 @@ $ npm install @east-century/datax
 
 ```js
 import Vue from 'vue'
-import DataV from '@east-century/datax'
+import DataX from '@east-century/datax'
 
-Vue.use(DataV)
+Vue.use(DataX)
 
 // 按需引入
 import { borderBox1 } from '@east-century/datax'
